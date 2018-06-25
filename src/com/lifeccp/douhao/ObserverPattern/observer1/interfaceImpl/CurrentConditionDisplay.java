@@ -1,7 +1,7 @@
 package com.lifeccp.douhao.ObserverPattern.observer1.interfaceImpl;
 
 
-import com.lifeccp.douhao.ObserverPattern.observer2.interfacePackage.DisplayElement;
+import com.lifeccp.douhao.ObserverPattern.observer1.interfacePackage.DisplayElement;
 import com.lifeccp.douhao.ObserverPattern.observer1.interfacePackage.MyObserver;
 import com.lifeccp.douhao.ObserverPattern.observer1.interfacePackage.MySubject;
 
